@@ -5,3 +5,9 @@ First step of making the ecommerce with Angular (v1)
 1. Developed sidebar and about us page
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/46961710/173270864-7a9fd52b-9b54-4c26-9979-555ee321be3c.png)
+
+Second Step of making the ecommerce with Angular (v2)
+
+2. Added Routing and Carousel on home page for slider in image
+
+![ezgif-2-469e524223](https://user-images.githubusercontent.com/46961710/173285497-7c3c3f9c-7bac-4aee-a986-138f2cbe659d.gif)
