@@ -19,3 +19,11 @@ Third Step of making the ecommerce with Angular (v3)
 Adding the products into the cart using Local Storage with Parsing Data using JSON
 
 ![ezgif-5-f051beac67](https://user-images.githubusercontent.com/46961710/173338469-cc6e8354-5337-4e95-a856-119e47a1c62d.gif)
+
+4. Cart checkout and clean local storage
+
+![ezgif-5-57d3b0593a](https://user-images.githubusercontent.com/46961710/173581645-49d68e7a-05a2-49ed-a582-4ed9ac99959e.gif)
+
+*Bonus: add title and url sidebar
+
+![ezgif-5-b6d420ab1f](https://user-images.githubusercontent.com/46961710/173581714-04dde90b-6c76-45c7-b27f-21e5928c42dd.gif)
